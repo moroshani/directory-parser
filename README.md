@@ -8,6 +8,10 @@
 [![TailwindCSS v4](https://img.shields.io/badge/Styling-Tailwind_v4-38B2AC?logo=tailwindcss&style=flat-square)](https://tailwindcss.com/)
 [![Google GenAI SDK](https://img.shields.io/badge/AI_Engine-Gemini--3.5--Flash-DE3478?logo=google-cloud&style=flat-square)](https://github.com/google/generative-ai-js)
 
+<p align="center">
+  <img src="assets/dashboard_banner.jpg" alt="Directory Chatbot Dashboard App mockup preview banner" width="850">
+</p>
+
 An elegant, fully-featured **full-stack chatbot, workspace explorer, and multi-document parser**. It allows you to select, read, index, and analyze files in any directory on your computer or cloud workspace. Powered by highly optimized, lay-flat parsers and a rich UI interface, it provides deep workspace-level question answering, real-time code editing, search-and-replace, and full file-system context indexing.
 
 ---
