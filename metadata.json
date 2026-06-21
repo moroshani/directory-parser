@@ -1,0 +1,6 @@
+{
+  "name": "Directory Chatbot",
+  "description": "An elegant full-stack chatbot that reads, indexes, and answers questions about files in any directory on your workspace. Explores directory trees and provides deep, context-rich insights with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
